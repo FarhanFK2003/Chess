@@ -2,8 +2,8 @@
  This is a simple chess game implemented in C++ using the SFML library for graphics.
 
 # Features
-Play chess against a friend on the same computer.
-WHITE as Player 1 and BLACK as Player 2.
+-Play chess against a friend on the same computer.
+-WHITE as Player 1 and BLACK as Player 2.
 Basic chess rules implemented, including pawn promotion and capturing.
 Graphical user interface using SFML for board and piece visualization.
 Sound effects when game starts,piece movement and when game ends.
